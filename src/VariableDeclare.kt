@@ -16,7 +16,7 @@ fun main() {
     val expense: Int = 5000
 
 
-    println("Earning: $earning")
+    println("Earning: $earning") //
     println("Expense: $expense")
 
     print("Remaining: ${earning - expense}")
