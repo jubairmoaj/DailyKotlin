@@ -8,7 +8,7 @@ fun main() {
 
 
     val age: Int = 25;
-    print("$name age is $age")
+    print("$name age is $age") //
 
 
     //title-----------Operation inside print---------------
