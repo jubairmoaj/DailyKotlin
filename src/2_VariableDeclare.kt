@@ -1,4 +1,7 @@
 fun main() {
+
+    //val - read-only and final
+
     val count: Int = 2
     println(count)
 
